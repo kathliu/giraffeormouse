@@ -1,0 +1,133 @@
+body {
+	background-color: floralwhite;
+}
+
+h1 {
+	font-family: 'Lilita One', sans-serif;
+	font-size: 80px;
+	color: #076364;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+#instructions {
+	text-align: center;
+	margin: auto;
+	width: 700px;
+	margin-top: 10px;
+	font-size: 10px;
+}
+
+#goButtonContainer {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.goButton {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	font-size: 60px;
+	color: white;
+	padding: 30px;
+	background-color: yellowgreen;
+	border: none;
+	margin: auto;
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+#points {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	font-size: 30px;
+	display: inline-block;
+}
+
+#time {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	font-size: 30px;
+	display: inline-block;
+}
+
+p {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	display: inline-block;
+	font-size: 25px;
+}
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+#counters {
+	margin: auto;
+	width: 400px;
+}
+
+#giraffe {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	font-size: 25px;
+	color: white;
+	display: inline-block;
+	padding: 15px;
+	margin: 10px;
+	background-color: lightseagreen;
+	border: none;
+	float: left;
+}
+
+#mouse {
+	font-family: 'Futura', 'Cabin', sans-serif;
+	font-size: 25px;
+	color: white;
+	display: inline-block;
+	padding: 15px;
+	margin: 10px;
+	background-color: yellowgreen;
+	border: none;
+	float: right;
+}
+
+#containerButton {
+	margin: auto;
+	width: 300px;
+}
+
+#picture {
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	margin: auto;
+}
+
+#picContainer {
+	text-align: center;
+	margin: auto;
+	width: 700px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.credit {
+	font-size: 12px;
+	margin-top: 60px;
+	font-family: 'Arial', sans-serif;
+}
+
+.creditContainer {
+	text-align: center;
+	margin: auto;
+	width: 450px;
+}
